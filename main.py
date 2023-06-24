@@ -1,4 +1,4 @@
-class banck:
+class bank:
 
     def __init__(self):
         self.saldo = 0.0
